@@ -1,7 +1,6 @@
 # R-Coding
 It includes coding of various algorithms and examples,tricks with R programming language. 
-*DecisionTree1.R adlı çalışmada veri madenciliği sınıflandırma algoritmalarından karar ağacı (decision tree) ile 
-Wine-Quality veri seti kullanılmıştır.
+*In the study named DecisionTree1.R, one of the data mining classification algorithms, the decision tree and the Wine-Quality data set were used.
 
 
 <img src="images/baseR1.jpg" alt="baseR1"	width="1000" height="600" /> 
